@@ -1,0 +1,27 @@
+{
+  "name": "desafio2-2-ihuul",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biguelini/desafio2-2-ihuul.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biguelini/desafio2-2-ihuul/issues"
+  },
+  "homepage": "https://github.com/Biguelini/desafio2-2-ihuul#readme",
+  "dependencies": {
+    "cli-tableau": "^2.0.1",
+    "luxon": "^3.5.0",
+    "prompt-sync": "^4.2.0",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
